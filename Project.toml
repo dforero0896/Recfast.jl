@@ -1,0 +1,13 @@
+name = "Recfast"
+uuid = "ae648430-3af2-45ee-b24a-1510c66d35e4"
+authors = ["James Gurian"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
